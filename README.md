@@ -26,7 +26,7 @@ Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 ## :fire: Como usar
 
 <h3 align="center">
-    <img alt="Logo" title="logo" width="" src="./img/cel-doc.jpeg.jpeg">
+    <img alt="Logo" title="logo" width="" src="./img/cel-doc.jpeg">
 </h3>
 
 O app é bem simples e não solicita cadastro do caminhoneiro, porém o mesmo se desejar pode efetuar esse cadastro, pois disponibilizamos um formulário pós-acesso. Ao Acessar o usuário tem, muito simples sob seu alcance, uma tela com três botões que referenciam as páginas e as funcionalidades da aplicação.
