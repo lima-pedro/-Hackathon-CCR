@@ -5,13 +5,11 @@
 </h3>
 
 ## :bookmark: Sobre
-Visando melhorar a saúde e o bem estar do caminhoneiro que roda nas estradas do nosso país, desenvolvemos o app <strong>PUXA</strong>
-O app <strong>PUXA</strong> é uma aplicação Mobile que serve para ajudar os caminhoneiros a descansarem mais e com intervalos de tempo regulares, além de enviar alertas para que nossos amigos da estrada se hidratem e melhor; e não menos importante, um feed com eventos que podem occorer nas estradas, tais como: Atendimento médico, distribuição de brindes para almoço, entre outros.
+Visando melhorar a saúde e o bem estar dos caminhoneiros que rodam nas estradas do nosso país desenvolvemos o app <strong>PUXA</strong>. Aplicativo mobile que auxilia os caminhoneiros monitorando a hidratação e o descanso em intervalos apropriados. Além de oferecer suporte de alertas, o caminhoneiro poderá estar por dentro das noticias e eventos próximos à sua rota.
 
-## O projeto
+Faz parte dessa solução oferecer comodidade e atenção ao caminhoneiro que, por conta da correria, não se hidrata e nem descansa em intervalos apropriados, impactando diretamente sua saúde e prejudicando seu próprio desempenho.
 
-Faz parte da nossa solução trazer comodidade e atenção ao caminhoneiro, que muitas vezes, por conta da correria, não se hidrata de maneira correta e nem consegue descansar em intervalos de tempos regulares, o que afeta diretamente sua saúde. 
-Com a concessionária CCR disponibiliza pontos de auxílio de saúde ao caminhoneiro, como é caso do programa Saúde na Estrada, além de implementarmos notificações e controle sobre consumo regular de água e descanso, ainda criamos uma forma de ligar a concessionária CCR ao caminhoneiro. Ela pode realizar eventos em determinados pontos das rodovias e avisar os caminhoneiros, via notificações sobre esses eventos.
+O PUXA, tem como parte do seu core-business o envio de alertas para manter o caminhoneiro hidratado durante os longos trechos percorridos; assim como estar por dentro dos eventos em diversos pontos das rodovias. Dessa forma o PUXA está alinhada com o projeto Estrada da Saúde da CCR, que disponibiliza pontos de auxílio de saúde ao caminhoneiro.
 
 ## 🚀 Tecnologias usadas
 
@@ -29,16 +27,25 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
     <img alt="Logo" title="logo" src="./img/cel-doc.jpeg">
 </h3>
 
-O app é bem simples e não solicita cadastro do caminhoneiro, porém o mesmo se desejar pode efetuar esse cadastro, pois disponibilizamos um formulário pós-acesso. Ao Acessar o usuário tem, muito simples sob seu alcance, uma tela com três botões que referenciam as páginas e as funcionalidades da aplicação.
+O app, além de ser simples e autoexplicativo, permite o ajuste personal. 
 
-O primeiro botão: 'Hidratação' , abre um painel de controle de consumo de água, a partir do peso do usuário, o app calcula e faz a distribuição de alarmes para o consumo correto do nível de água para uma pessoal saudável. 
+A tela inicial direciona fácil e intuitivamente o usuário aos recursos do aplicativo.
+
+O primeiro botão: 'Hidratação' , abre um painel de controle de consumo de água que, a partir do peso do usuário, o app calcula e distribui os alarmes para o consumo correto do nível de água de uma pessoal saudável.
+
+- [Hidratação]("https://www.conquistesuavida.com.br/noticia/agua-na-medida-certa-aprenda-a-calcular-corretamente-a-sua-hidratacao_a2245/1")
 
 <h3 align="center">
     <img alt="Telas de cadastro e funcionalidade de hidratação" title="logo" width="" src="./img/splash1.jpeg">
 </h3>
 
-Voltando para tela inicial no botão: 'Descanso', o usuário pode clicar no botão e iniciar seu descanso, nosso calcula e informa quanto tempo o usuário descansou e dormiu, bem como informa via gráfico o tempo de descanso , se foi ou está sendo (ou não) suficiente.
-Por último temos a tela de eventos. A concessionária pode cadastrar seus eventos e informações importantes para que o usuário saiba sobre notícias e eventos nas estradas. O usuário recebe notificações quando está próximo à eventos para que possa cuidar de sua saúde e bem-estar, bem como receber orientações necessárias.
+## A opção de Descanso
+
+Calcula e informa o quanto de tempo o usuário descansou graficamente. Dessa forma a o caminhoneiro consegue monitorar sua própria saúde num intervalo de sete dias,  permitindo-o uma melhor organização semanal. O monitoramento gráfico é baseado na Lei do descanso de caminhoneiros.
+
+- [Estradão descanso]("https://estradao.estadao.com.br/servicos/")
+- [Lei do descanso]("lei-do-descanso-de-caminhoneiros-pode-mudar-por-causa-do-coronavirus/")
+- [Descanso e Jornada de Trabalho]("https://bsoft.com.br/blog/lei-do-caminhoneiro-descanso-e-jornada-de-trabalho")
 
 <h3 align="center">
     <img alt="Telas de funcionalidades de descanso e feed de eventos" title="logo" width="" src="./img/splash.jpeg">
@@ -55,7 +62,7 @@ Por último temos a tela de eventos. A concessionária pode cadastrar seus event
 
 Nicola Liberato Miranda - Business- infra em TI -  **[Nicola Liberato Miranda](https://github.com/nicolaabre)**
 
-Luciano Tag. Sato - MARKETING - Youtuber | Blockchain | Criptomoedas Usabilidade -  **[Luciano Tag. Sato](https://github.com/sato888)**
+Luciano Tag. Sato - MARKETING - Youtuber | Blockchain | Criptomoedas | Usabilidade -  **[Luciano Tag. Sato](https://github.com/sato888)**
 
 Yeremi Loli - ENGENHARIA/DESENVOLVIMENTO - Programador -  **[Yeremi Loli](https://github.com/yeremi)**
 
@@ -63,7 +70,7 @@ Pedro Lima - ENGENHARIA/DESENVOLVIMENTO - Dev Full-Stack Júnior -  **[Pedro Lim
 
 Marcos Roberto - Analisa em telecomunicações -  **[Marcos Roberto](https://github.com/marcosanaka)**
 
-Cândido finda - Análise de Sistemas -  **[Cândido finda](https://github.com/marcosanaka)**
+Cândido finda - Análise de Sistemas -  **[Cândido finda](https://github.com/candidofinda)**
 
 ## :memo: License
 
