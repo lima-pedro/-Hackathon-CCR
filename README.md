@@ -43,7 +43,7 @@ O primeiro botão: 'Hidratação' , abre um painel de controle de consumo de ág
 
 Calcula e informa o quanto de tempo o usuário descansou graficamente. Dessa forma a o caminhoneiro consegue monitorar sua própria saúde num intervalo de sete dias,  permitindo-o uma melhor organização semanal. O monitoramento gráfico é baseado na Lei do descanso de caminhoneiros.
 
-- [Estradão descanso]("https://estradao.estadao.com.br/servicos/lei-do-descanso-de-caminhoneiros-pode-mudar-por-causa-do-coronavirus/")
+- [Estradão descanso](https://estradao.estadao.com.br/servicos/lei-do-descanso-de-caminhoneiros-pode-mudar-por-causa-do-coronavirus/)
 - [Descanso e Jornada de Trabalho]("https://bsoft.com.br/blog/lei-do-caminhoneiro-descanso-e-jornada-de-trabalho")
 
 ## Opção de Eventos
@@ -75,12 +75,6 @@ Marcos Roberto - Analisa em telecomunicações -  **[Marcos Roberto](https://git
 
 Cândido finda - Análise de Sistemas -  **[Cândido finda](https://github.com/candidofinda)**
 
-## :memo: License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
 <h4 align="center">
-    Readme criado por <a href="https://www.linkedin.com/in/pedro-lima-832514195/" target="_blank">Pedro Lima</a>
+    Readme criado por Puxa APP
 </h4>
