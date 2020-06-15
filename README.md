@@ -5,17 +5,17 @@
 </h3>
 
 ## :bookmark: Sobre
-Visando melhorar a saúde e o bem estar do caminhoneiro que rodas nas estradas do nosso país, desenvolvemo o app <strong>PUXA</strong>
+Visando melhorar a saúde e o bem estar do caminhoneiro que roda nas estradas do nosso país, desenvolvemos o app <strong>PUXA</strong>
 O app <strong>PUXA</strong> é uma aplicação Mobile que serve para ajudar os caminhoneiros a descansarem mais e com intervalos de tempo regulares, além de enviar alertas para que nossos amigos da estrada se hidratem e melhor; e não menos importante, um feed com eventos que podem occorer nas estradas, tais como: Atendimento médico, distribuição de brindes para almoço, entre outros.
 
 ## O projeto
 
 Faz parte da nossa solução trazer comodidade e atenção ao caminhoneiro, que muitas vezes, por conta da correria, não se hidrata de maneira correta e nem consegue descansar em intervalos de tempos regulares, o que afeta diretamente sua saúde. 
-Com a concessionária CCR disponibiliza pontos de auxílio de saúde ao caminhoneiro, como é caso do programa Saúde na Estrada, além de implementarmos notificações e controle sobre consumo regular de água e descanso, ainda criamos uma forma de ligar a concessrionária CCR ao caminheiro. Ela pode realizar eventos em determinados pontos das rodovias e avisar os caminhoneiros, via notificações sobre esses eventos.
+Com a concessionária CCR disponibiliza pontos de auxílio de saúde ao caminhoneiro, como é caso do programa Saúde na Estrada, além de implementarmos notificações e controle sobre consumo regular de água e descanso, ainda criamos uma forma de ligar a concessionária CCR ao caminhoneiro. Ela pode realizar eventos em determinados pontos das rodovias e avisar os caminhoneiros, via notificações sobre esses eventos.
 
 ## 🚀 Tecnologias usadas
 
-Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
@@ -26,7 +26,7 @@ Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 ## :fire: Como usar
 
 <h3 align="center">
-    <img alt="Logo" title="logo" width="" src="./img/cel-doc.jpeg">
+    <img alt="Logo" title="logo" src="./img/cel-doc.jpeg">
 </h3>
 
 O app é bem simples e não solicita cadastro do caminhoneiro, porém o mesmo se desejar pode efetuar esse cadastro, pois disponibilizamos um formulário pós-acesso. Ao Acessar o usuário tem, muito simples sob seu alcance, uma tela com três botões que referenciam as páginas e as funcionalidades da aplicação.
