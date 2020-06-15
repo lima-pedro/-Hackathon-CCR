@@ -43,9 +43,12 @@ O primeiro botão: 'Hidratação' , abre um painel de controle de consumo de ág
 
 Calcula e informa o quanto de tempo o usuário descansou graficamente. Dessa forma a o caminhoneiro consegue monitorar sua própria saúde num intervalo de sete dias,  permitindo-o uma melhor organização semanal. O monitoramento gráfico é baseado na Lei do descanso de caminhoneiros.
 
-- [Estradão descanso]("https://estradao.estadao.com.br/servicos/")
-- [Lei do descanso]("lei-do-descanso-de-caminhoneiros-pode-mudar-por-causa-do-coronavirus/")
+- [Estradão descanso]("https://estradao.estadao.com.br/servicos/lei-do-descanso-de-caminhoneiros-pode-mudar-por-causa-do-coronavirus/")
 - [Descanso e Jornada de Trabalho]("https://bsoft.com.br/blog/lei-do-caminhoneiro-descanso-e-jornada-de-trabalho")
+
+## Opção de Eventos
+
+Através da integração com o feed de notícias da CCR no Facebook, o usuário se mantem informado sobre as novidades, eventos e noticias. O PUXA, permite a integração com outras APIs, como a Trivadvisor e Google Places, e dessa forma o motorista de caminhão poder planejar melhor suas paradas, alimentando-se em restaurantes com boa pontuação, descansando em bons lugares ou até programando a visita ao médico.
 
 <h3 align="center">
     <img alt="Telas de funcionalidades de descanso e feed de eventos" title="logo" width="" src="./img/splash.jpeg">
