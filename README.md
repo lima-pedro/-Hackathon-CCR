@@ -38,11 +38,15 @@ O primeiro botão: 'Hidratação' , abre um painel de controle de consumo de ág
 </h3>
 
 Voltando para tela inicial no botão: 'Descanso', o usuário pode clicar no botão e iniciar seu descanso, nosso calcula e informa quanto tempo o usuário descansou e dormiu, bem como informa via gráfico o tempo de descanso , se foi ou está sendo (ou não) suficiente.
-Por último temos a tela de eventos. A concessionária pode cadastrar seus eventos e informações importantes para que o usuário saiba sobre notícias e eventos nas estradas. O usuário recebe notificações quando está próximo à eventos para que possa cuidar de sua saúde e bem-estar, bem como receber orientações necessáris.
+Por último temos a tela de eventos. A concessionária pode cadastrar seus eventos e informações importantes para que o usuário saiba sobre notícias e eventos nas estradas. O usuário recebe notificações quando está próximo à eventos para que possa cuidar de sua saúde e bem-estar, bem como receber orientações necessárias.
 
 <h3 align="center">
     <img alt="Telas de funcionalidades de descanso e feed de eventos" title="logo" width="" src="./img/splash.jpeg">
 </h3>
+
+## Pitch do Projeto
+
+- [Puxa - Saúde da estrada]("https://www.youtube.com/watch?v=05NilaQ_Wk0&feature=youtu.be")
 
 ## :recycle: Como contribuir
 
@@ -61,7 +65,7 @@ Yeremi Loli - ENGENHARIA/DESENVOLVIMENTO - Programador -  **[Yeremi Loli](https:
 
 Pedro Lima - ENGENHARIA/DESENVOLVIMENTO - Dev Full-Stack Júnior -  **[Pedro Lima](https://github.com/lima-pedro)**
 
-Marcos Tablet - Analisa em telecomunicações -  **[Marcos Tablet](https://github.com/marcosanaka)**
+Marcos Roberto - Analisa em telecomunicações -  **[Marcos Roberto](https://github.com/marcosanaka)**
 
 Cândido finda - Análise de Sistemas -  **[Cândido finda](https://github.com/marcosanaka)**
 
