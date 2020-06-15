@@ -37,7 +37,7 @@ O primeiro botão: 'Hidratação' , abre um painel de controle de consumo de ág
     <img alt="Telas de cadastro e funcionalidade de hidratação" title="logo" width="" src="./img/splash1.jpeg">
 </h3>
 
-Voltando para tela inicial no botão: 'Descanso', o ususário pode clicar no botão e iniciar seu descanso, nosso calcula e informa quanto tempo o usuário descansou e dormiu, bem informa via gráfico o tempo de descanso , se foi ou está sendo (ou não) suficiente.
+Voltando para tela inicial no botão: 'Descanso', o usuário pode clicar no botão e iniciar seu descanso, nosso calcula e informa quanto tempo o usuário descansou e dormiu, bem como informa via gráfico o tempo de descanso , se foi ou está sendo (ou não) suficiente.
 Por último temos a tela de eventos. A concessionária pode cadastrar seus eventos e informações importantes para que o usuário saiba sobre notícias e eventos nas estradas. O usuário recebe notificações quando está próximo à eventos para que possa cuidar de sua saúde e bem-estar, bem como receber orientações necessáris.
 
 <h3 align="center">
