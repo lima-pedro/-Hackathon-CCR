@@ -46,7 +46,7 @@ Por último temos a tela de eventos. A concessionária pode cadastrar seus event
 
 ## Pitch do Projeto
 
-- [Puxa - Saúde da estrada]("https://www.youtube.com/watch?v=05NilaQ_Wk0&feature=youtu.be")
+- [Puxa - Saúde da estrada]("https://www.youtube.com/watch?v=05NilaQ_Wk0")
 
 ## :recycle: Como contribuir
 
