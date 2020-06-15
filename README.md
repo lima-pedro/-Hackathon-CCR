@@ -44,10 +44,6 @@ Por último temos a tela de eventos. A concessionária pode cadastrar seus event
     <img alt="Telas de funcionalidades de descanso e feed de eventos" title="logo" width="" src="./img/splash.jpeg">
 </h3>
 
-## Pitch do Projeto
-
-- [Puxa - Saúde da estrada]("https://www.youtube.com/watch?v=05NilaQ_Wk0")
-
 ## :recycle: Como contribuir
 
 - Faça um Fork desse repositório,
